@@ -3,17 +3,17 @@
 This project explores the **Netflix dataset** to understand trends in content type, ratings, release years, durations, and country contributions.  
 The analysis is done using **Pandas** for data handling and **Matplotlib** for visualization.  
 
----
+<hr>
 
 ## 📂 Project Structure
 netflix-analysis/
-│── data/ # Dataset (CSV file or link to Kaggle)<br>
-│── images/ # Saved visualizations<br>
-│── netflix_analysis.py # Main Python script<br>
-│── requirements.txt # Dependencies<br>
-│── README.md # Project documentation<br>
+│── data/ <br>
+│── images/ <br>
+│── netflix_analysis.py <br>
+│── requirements.txt <br>
+│── README.md <br>
 
----
+<hr>
 
 ## 📊 Visualizations
 
@@ -51,11 +51,10 @@ Which countries contribute the most Netflix content.
 Separate trends for **Movies vs TV Shows** over release years.  
 ![Content Trends](images/netflix_content_trends.png)
 
----
+<hr>
 
 ## ⚙️ Installation & Usage
 
-1. Clone the repository:
-   ```bash
+1. Clone the repository:<br>
    git clone https://github.com/sai182007/netflix-analysis.git
    cd netflix-analysis
