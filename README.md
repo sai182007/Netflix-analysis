@@ -7,11 +7,11 @@ The analysis is done using **Pandas** for data handling and **Matplotlib** for v
 
 ## 📂 Project Structure
 netflix-analysis/
-│── data/ # Dataset (CSV file or link to Kaggle)
-│── images/ # Saved visualizations
-│── netflix_analysis.py # Main Python script
-│── requirements.txt # Dependencies
-│── README.md # Project documentation
+│── data/ # Dataset (CSV file or link to Kaggle)<br>
+│── images/ # Saved visualizations<br>
+│── netflix_analysis.py # Main Python script<br>
+│── requirements.txt # Dependencies<br>
+│── README.md # Project documentation<br>
 
 ---
 
